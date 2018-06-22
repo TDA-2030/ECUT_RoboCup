@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\工作内容\罗阳\卓越之星 库封装\卓越之星程序手册\USDG V1.1\USDG_DEMO\USDG__Demo15_Woody_ImageRecognition - 副本 (8)\prj\UP_EX-Star Demo.uvproj
+Project File Date:  11/14/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+..\src\UPLib\UP_Woody_ImageRecognition.h(46): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=9956 RO-data=336 RW-data=212 ZI-data=1508  
+FromELF: creating hex file...
+User command #1: C:\Keil\ARM\BIN40\fromelf.exe "..\List\UP_ADC.axf" --bin --output "..\CDS.bin"
+"..\List\UP_ADC.axf" - 0 Error(s), 1 Warning(s).
